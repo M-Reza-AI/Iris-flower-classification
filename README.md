@@ -10,7 +10,7 @@ about the AI final project / presentation:
 
 you can go beyond the scope of this course when creating your project , it is encoureged!
 
-=======================================================================================================
+==================================================
 
 libraries used in this project and the links to their official documentation
 
