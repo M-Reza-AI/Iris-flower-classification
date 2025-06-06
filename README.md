@@ -1,5 +1,10 @@
 libraries used in this project and the links to their official documentation
 
+Note: most of these libraries have been pre-imported in the helper file (AI_Helper.py)
+
+kaggle website (for datasets):
+https://www.kaggle.com/datasets
+
 sklearn officail docs:
 https://scikit-learn.org/stable/api/index.html
 
